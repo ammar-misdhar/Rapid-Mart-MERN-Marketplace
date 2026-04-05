@@ -11,6 +11,7 @@
 * **Secure Checkout:** Integrated cart system with real-time price calculations.
 * **Order Tracking:** Monitor purchases through stages: *Pending, Shipped, Delivered,* and *Returned*.
 * **Interactive Reviews:** Leave ratings and feedback on purchased items to help the community.
+* **Optimized Performance:** Integrated Server-Side Pagination to handle large product catalogs efficiently, reducing initial load times and API payload sizes.
 
 ### 🏢 Seller Management
 * **Inventory Dashboard:** Full CRUD (Create, Read, Update, Delete) capabilities for product listings.
