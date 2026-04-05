@@ -1,0 +1,17 @@
+# Ignore environment files in any folder
+.env
+**/.env
+
+# Ignore dependency folders in any folder
+node_modules/
+**/node_modules/
+
+# Ignore build and distribution folders
+build/
+dist/
+bin/
+obj/
+
+# OS generated files
+.DS_Store
+Thumbs.db
