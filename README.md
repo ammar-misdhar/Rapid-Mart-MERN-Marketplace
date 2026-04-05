@@ -18,6 +18,7 @@
 * **Order Fulfillment:** Specialized interface to update order statuses and manage customer returns.
 * **Media Handling:** Seamless image uploads for products using **Multer** middleware.
 * **Performance Insights:** Track sales and manage customer feedback directly from the portal.
+* **Inventory Auto-Sync:** Real-time stock adjustment logic that tracks order state changes. Quantities are automatically restored upon Cancellation/Return and deducted when orders are moved back to Active status.
 
 ---
 
